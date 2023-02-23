@@ -1,8 +1,0 @@
-.logo {
-  @include links;
-  &__image {
-    @include onTablet {
-      height: 56px;
-    }
-  }
-}
